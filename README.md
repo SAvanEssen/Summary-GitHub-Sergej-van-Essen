@@ -5,6 +5,12 @@ https://github.com/SAvanEssen/Todo-List-Project :
 
 First attempt at using GitHub, just to check if I could make a repository and use the basic commands needed to put my code in the repository.
 
+https://github.com/SAvanEssen/todolistsergej :
+
+First real project committed to GitHub. Built a relatively simple to-do-list, this was quite early in the bootcamp.
+
+Used HTML, CSS, Font-Awesome, Googleapis and JQuery.
+
 
 
 
