@@ -1,6 +1,12 @@
 # Summary-GitHub-Sergej-van-Essen
 Readme file with descriptions of my repositories to help people interested find their way around my GitHub repositories. Goal is to give an insight into my development as a developer, see my progress and my struggles along the way. At the moment I am using my GitHub to show my portfolio, but at a certain point I will be setting op my own webpage at my own domain to showcase my work (and of course still refer to my GitHub for code). My first few projects were mostly code alongs, but I intend to start adding some refactored and some new projects in the future, to show I can do more than just code along and copy. 
 
+https://github.com/SAvanEssen/Todo-List-Project :
+
+First attempt at using GitHub, just to check if I could make a repository and use the basic commands needed to put my code in the repository.
+
+
+
 
 https://github.com/RGHommes/CGB_VO10 :
 
