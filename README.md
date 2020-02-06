@@ -29,4 +29,8 @@ There must be a million versions of YelpCamp out there, given the fact that I am
 
 Colt Steele takes you by the hand and most of the project is a code along, but certainly not all, since the videocourse is a bit dated and not everything works in the same way as explained in the course. He uses cloud9 for instance and I chose to work localy at first. He uses MongoDBLab at some point, I used MongoDBAtlas. I did go along with some choices, like still working with an older Boostrap than currently available. Colt uses Sublime Text, I opted to use Microsoft Visual Studio Code with a BASH-terminal. Given the fact not everything worked as taught in the course, it was a good exercise to find good sources on Google. MDN, W3Schools and StackOverflow I frequently visited to find solutions to the challenges I ran into. My fellow CodeGorilla students and coaches were a big help as well, but in each case I did try and find a solution myself, so I had a good understanding of what I was doing. The course tought me to make a CRUD and RESTful-routed website 
 
+To view the project in it's current state, click the following link:
+
+https://calm-crag-16152.herokuapp.com/
+
 Used HTML, CSS, Javascript, Bootstrap, NodeJS, MongoDB, MongoDBAtlas, Mongoose, Express, Passport, Body-Parser, Flash, Method-Override, Heroku.
