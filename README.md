@@ -1,11 +1,15 @@
 # Summary-GitHub-Sergej-van-Essen
 Readme file with descriptions of my repositories to help people interested find their way around my GitHub repositories. Goal is to give an insight into my development as a developer, see my progress and my struggles along the way. At the moment I am using my GitHub to show my portfolio, but at a certain point I will be setting op my own webpage at my own domain to showcase my work (and of course still refer to my GitHub for code). My first few projects were mostly code alongs, but I intend to start adding some refactored and some new projects in the future, to show I can do more than just code along and copy. 
 
+https://github.com/SAvanEssen/personal-blog
+
+In progress, another blog, but this time using Bootstrap instead of Semantic UI and with authentication, authorization and hosted on Heroku. (CRUD and RESTfull-routed) 
+
+Using HTML, CSS, Javascript, Bootstrap, NodeJS, MongoDB, MongoDBAtlas, Mongoose, Express, Passport, Body-Parser, Flash, Method-Override, Heroku.
+
 https://github.com/SAvanEssen/YelpCamp-Heroku :
 
 There must be a million versions of YelpCamp out there, given the fact that I am not the only one to use Colt Steele's "The Webdeveloper Bootcamp" on Udemy as an introduction to webdevelopment to get the basics down, but here is mine. 
-
-Colt Steele takes you by the hand and most of the project is a code along, but certainly not all, since the videocourse is a bit dated and not everything works in the same way as explained in the course. He uses cloud9 for instance and I chose to work localy at first. He uses MongoDBLab at some point, I used MongoDBAtlas. I did go along with some choices, like still working with an older Boostrap than currently available. Colt uses Sublime Text, I opted to use Microsoft Visual Studio Code with a BASH-terminal. Given the fact not everything worked as taught in the course, it was a good exercise to find good sources on Google. MDN, W3Schools and StackOverflow I frequently visited to find solutions to the challenges I ran into. My fellow CodeGorilla students and coaches were a big help as well, but in each case I did try and find a solution myself, so I had a good understanding of what I was doing. The course tought me to make a CRUD and RESTful-routed website 
 
 To view the project in it's current state, click the following link:
 
